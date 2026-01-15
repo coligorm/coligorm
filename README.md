@@ -2,7 +2,7 @@
 
 ## Currently working on:
 
-- (Boot.dev) [https://www.boot.dev/tracks/backend-python-typescript Back-end Developer Path (Python & TypeScript)
+- [Boot.dev](https://www.boot.dev/tracks/backend-python-typescript) Back-end Developer Path (Python & TypeScript)
 
 ## Projects
 
@@ -21,3 +21,34 @@
 
 - Project Eurler maths problems in Python [Project-Euler](https://github.com/coligorm/Project-Euler)
 - A daily challenge leading up to Christmas in Python [AdventOfCode](https://github.com/coligorm/AdventOfCode)
+
+
+## Boot.dev Progress
+
+ I have a year to complete the following course
+ 
+### Back-end Developer Path
+
+The course begins with the basics in Python, but includes lessons on Linux, Git, Memory in C, SQL, TypeScript.
+I have a fairly good grasp on a lot of earlier concepts but i will use them as a refresher before leading into more intense learning
+
+#### Learn to Code in Python
+
+- [x] Introduction
+- [x] Variables
+- [ ] Functions
+- [ ] Scope
+- [ ] Testing and Debugging
+- [ ] Computing
+- [ ] Comparisons
+- [ ] Loops
+- [ ] Lists
+- [ ] Dictionaries
+- [ ] Sets
+- [ ] Errors
+- [ ] Practice
+- [ ] Quiz
+
+#### Learn Linux
+
+~to be filled later~
