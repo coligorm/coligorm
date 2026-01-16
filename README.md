@@ -34,9 +34,9 @@ I have a fairly good grasp on a lot of earlier concepts but i will use them as a
 
 #### Learn to Code in Python
 
-- [x] Introduction
-- [x] Variables
-- [x] Functions
+- [x] ~~Introduction~~
+- [x] ~~Variables~~
+- [x] ~~Functions~~
 - [ ] Scope
 - [ ] Testing and Debugging
 - [ ] Computing
