@@ -36,7 +36,7 @@ I have a fairly good grasp on a lot of earlier concepts but i will use them as a
 
 - [x] Introduction
 - [x] Variables
-- [ ] Functions
+- [x] Functions
 - [ ] Scope
 - [ ] Testing and Debugging
 - [ ] Computing
