@@ -37,9 +37,9 @@ I have a fairly good grasp on a lot of earlier concepts but i will use them as a
 - [x] ~~Introduction~~
 - [x] ~~Variables~~
 - [x] ~~Functions~~
-- [ ] Scope
-- [ ] Testing and Debugging
-- [ ] Computing
+- [x] ~~Scope~~
+- [x] ~~Testing and Debugging~~
+- [x] ~~Computing~~
 - [ ] Comparisons
 - [ ] Loops
 - [ ] Lists
