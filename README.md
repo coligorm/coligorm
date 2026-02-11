@@ -43,8 +43,8 @@ I have a fairly good grasp on a lot of earlier concepts but i will use them as a
 - [x] ~~Comparisons~~
 - [x] ~~Loops~~
 - [x] ~~Lists~~
-- [ ] Dictionaries (In Progress)
-- [ ] Sets
+- [x] Dictionaries
+- [x] Sets
 - [ ] Errors
 - [ ] Practice
 - [ ] Quiz
