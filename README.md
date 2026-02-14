@@ -35,20 +35,20 @@ I have a fairly good grasp on a lot of earlier concepts but i will use them as a
 #### Learn to Code in Python :heavy_check_mark:
 <details>
 <summary><em>Completed Chapters<em></summary>
-[ol][li] <s>Introduction</s>[/li]
-[li] <s>Variables</s>[/li]
-[li] <s>Functions</s>[/li]
-[li] <s>Scope</s>[/li]
-[li] <s>Testing and Debugging</s>[/li]
-[li] <s>Computing</s>[/li]
-[li] <s>Comparisons</s>[/li]
-[li] <s>Loops</s>[/li]
-[li] <s>Lists</s>[/li]
-[li] <s>Dictionaries</s>[/li]
-[li] <s>Sets</s>[/li]
-[li] <s>Errors</s>[/li]
-[li] <s>Practice</s>[/li]
-[li] <s>Quiz</s>[/li][/ol]
+<ol><li> <s>Introduction</s></li>
+<li> <s>Variables</s></li>
+<li> <s>Functions</s></li>
+<li> <s>Scope</s></li>
+<li> <s>Testing and Debugging</s></li>
+<li> <s>Computing</s></li>
+<li> <s>Comparisons</s></li>
+<li> <s>Loops</s></li>
+<li> <s>Lists</s></li>
+<li> <s>Dictionaries</s></li>
+<li> <s>Sets</s></li>
+<li> <s>Errors</s></li>
+<li> <s>Practice</s></li>
+<li> <s>Quiz</s></li></ol>
 </details>
 
 #### Learn Linux
