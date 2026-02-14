@@ -46,7 +46,7 @@ I have a fairly good grasp on a lot of earlier concepts but i will use them as a
 - [x] ~~Dictionaries~~
 - [x] ~~Sets~~
 - [x] ~~Errors~~
-- [ ] Practice
+- [x] ~~Practice~~
 - [ ] Quiz
 
 #### Learn Linux
