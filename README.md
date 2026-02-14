@@ -51,4 +51,12 @@ I have a fairly good grasp on a lot of earlier concepts but i will use them as a
 
 #### Learn Linux
 
-^to be filled later^
+- [ ] Terminals and Shells
+- [ ] Filesystems
+- [ ] Permissions
+- [ ] Programs
+- [ ] Input/Output
+- [ ] Packages
+
+#### Build a Bootbot in Python
+*chapters to be added*
