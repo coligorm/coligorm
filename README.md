@@ -32,7 +32,7 @@
 The course begins with the basics in Python, but includes lessons on Linux, Git, Memory in C, SQL, TypeScript.
 I have a fairly good grasp on a lot of earlier concepts but i will use them as a refresher before leading into more intense learning
 
-#### Learn to Code in Python
+#### Learn to Code in Python :heavy_check_mark:
 
 - [x] ~~Introduction~~
 - [x] ~~Variables~~
