@@ -15,7 +15,7 @@ By night, I cook my CPU :computer:
 
 ## Currently working on:
 
-- [Boot.dev](https://www.boot.dev/tracks/backend-python-typescript) Back-end Developer Path (Python & TypeScript)
+- [Boot.dev](https://github.com/coligorm/Boot.dev?tab=readme-ov-file#bootdev-progress) Back-end Developer Path (Python & TypeScript)
 - [Godot University](https://github.com/coligorm/Godot-101#godot-university) YouTube playlist of Godot essentials to learn
 
 ## Projects
